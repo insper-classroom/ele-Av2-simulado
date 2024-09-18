@@ -1,0 +1,9 @@
+Saídas da lógica sequencial:
+t  | Q0 | Q1 |
+-1 | 0  | 0  |
+0  |    |    |
+1  |    |    |
+2  |    |    |
+3  |    |    |
+4  |    |    |
+
